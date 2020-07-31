@@ -1,0 +1,22 @@
+PODS:
+  - easytts (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - easytts (from `.symlinks/plugins/easytts/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  easytts:
+    :path: ".symlinks/plugins/easytts/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  easytts: 450d35ef2aa06b9d13a016ce9efe002d79c0800f
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.7.5
